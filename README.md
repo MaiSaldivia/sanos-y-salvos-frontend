@@ -5,7 +5,7 @@
 
 Interfaz web desarrollada con **React 18 + Vite**, que consume los microservicios del sistema a través del BFF.
 
----
+
 
 ## Tecnologías utilizadas
 
